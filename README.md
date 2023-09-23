@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mylordkaz
-- 👀 I’m interested in get a job in tech, i like AI & machine learning also blockchain technologies
+- 👀 I’m interested in getting a job in tech, i like AI & machine learning also blockchain technologies
 - 🌱 I’m currently learning JavaScript with The Odin project, and will start to a bootcamp soon
 - 💞️ I’m looking to collaborate on anythings how make us grow ^^
 - 📫 How to reach me , well... direct from GitHub.
