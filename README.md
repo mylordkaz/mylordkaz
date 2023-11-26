@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mylordkaz
 - 👀 I’m interested into tech, i like AI & machine learning and blockchain technologies
-- 🌱 I’m currently learning JavaScript with The Odin project, and will start to a bootcamp soon
-- 💞️ I’m looking to collaborate on anythings how make us grow ^^
+- 🌱 I’m currently learning JavaScript starting a Bootcamp in Tokyo.
 - 📫 How to reach me , well... direct from GitHub.
 - Have a Nice Journey see you arround ;)
 
