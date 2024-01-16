@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mylordkaz
+- 👋 Hi, I’m Timsiline Kevin
 - 👀 I’m interested into tech, i like AI & machine learning and blockchain technologies
-- 🌱 I’m currently learning JavaScript starting a Bootcamp in Tokyo.
+- 🌱 I’m currently, enhancing my technical skills in JavaScript and web development technologies
 - 📫 How to reach me , well... direct from GitHub.
 - Have a Nice Journey see you arround ;)
 
