@@ -1,4 +1,4 @@
-  👋 Hi, my name is Timsiline Kevin.
+  👋 Hi, my name is Tim Kevin.
 
 
 - 👀 I’m interested into tech in general and blockchain technologies.
