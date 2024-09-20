@@ -1,8 +1,9 @@
-  👋 Hi, I'm Kevin,
-French base in Japan.
+  👋 Hi, I'm Kevin,  
+ French base in Japan.
 
 👀 interested into tech in general and finance.
-I'm a software engineer backend, very curious I like to learn new things.
+
+ I'm a software engineer backend very curious, I like to learn new things.
 
 Feel free to reach out!
 - Have a Nice day, see you arround. ;)
