@@ -3,7 +3,7 @@
 
 👀 interested into tech in general and finance.
 
- I'm a software engineer backend very curious, I like to learn new things.
+ I'm a fullstack software engineer very curious, I like to learn new things.
 
 Feel free to reach out!
 - Have a Nice day, see you arround. ;)
